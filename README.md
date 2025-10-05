@@ -1,1 +1,1 @@
-# pcos-pcod
+# AI-Powered-Early-Detection-and-Lifestyle-Recommendations-for-PCOS-and-PCOD
